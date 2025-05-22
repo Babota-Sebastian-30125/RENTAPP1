@@ -1,0 +1,66 @@
+<div class="register-container">
+  <h2>ÎNREGISTRARE</h2>
+
+  <div *ngIf="success" class="success-message">{{ success }}</div>
+  <div *ngIf="error" class="error-message">{{ error }}</div>
+
+  <form (ngSubmit)="onSubmit()" #registerForm="ngForm">
+    <div class="form-group">
+      <label for="name">Nume</label>
+      <input type="text"
+             id="name"
+             [(ngModel)]="name"
+             name="name"
+             required
+             minlength="2"
+             #nameInput="ngModel" />
+      <div *ngIf="nameInput.invalid && nameInput.touched" class="validation-error">
+        Te rugăm să introduci un nume valid!
+      </div>
+    </div>
+    <div class="form-group">
+      <label for="email">E-mail</label>
+      <input type="email"
+             id="email"
+             [(ngModel)]="email"
+             name="email"
+             required
+             email
+             #emailInput="ngModel" />
+      <div *ngIf="emailInput.invalid && emailInput.touched" class="validation-error">
+        Te rugăm să introduci un e-mail valid!
+      </div>
+    </div>
+    <div class="form-group">
+      <label for="telephone">Număr de telefon</label>
+      <input type="tel"
+             id="telephone"
+             [(ngModel)]="telephoneNumber"
+             name="telephoneNumber"
+             required
+             pattern="^(\+?\d{1,3}[- ]?)?\d{10}$"
+             #telephoneInput="ngModel" />
+      <div *ngIf="telephoneInput.invalid && telephoneInput.touched" class="validation-error">
+        Te rugăm să introduci un număr de telefon valid!
+      </div>
+    </div>
+    <div class="form-group">
+      <label for="password">Parolă</label>
+      <input type="password"
+             id="password"
+             [(ngModel)]="password"
+             name="password"
+             required
+             minlength="6"
+             #passwordInput="ngModel" />
+      <div *ngIf="passwordInput.invalid && passwordInput.touched" class="validation-error">
+        Parola trebuie să conțină cel puțin 8 caractere, o literă mare, o cifră și un caracter special!
+      </div>
+    </div>
+
+    <button type="submit" [disabled]="registerForm.invalid">Creează contul</button>
+  </form>
+ 
+  <p>Ai deja un cont? <a routerLink="/login">Conectează-te aici!</a></p>
+
+</div>

@@ -1,0 +1,54 @@
+<div class="page-wrapper">
+  <header class="main-header">
+    <h1>PRODUSELE MELE</h1>
+  </header>
+  <div class="rentals-container">
+    <h2 class="section-title">Produse postate</h2>
+    <p class="message" *ngIf="message">{{ message }}</p>
+    <div *ngIf="myProducts.length > 0; else noProducts">
+      <div class="rental-card" *ngFor="let product of myProducts" [class.selected]="openRequestsForProductId === product.id">
+        <h3 class="product-name">{{ product.name }}</h3>
+        <div class="rental-details">
+          <div class="detail-item">
+            <strong>Data postării:</strong><br>
+            {{ product.addedAt | date:'shortDate' }}
+          </div>
+          <div class="detail-item">
+            <strong>Preț/zi:</strong><br>
+            {{ product.pricePerDay }} RON
+          </div>
+          <div class="detail-item">
+            <button class="review-btn" (click)="showRequests(product.id)">
+              Vezi cereri de închiriere
+            </button>
+          </div>
+        </div>
+        <div *ngIf="openRequestsForProductId === product.id" class="requests-section">
+          <div *ngIf="rentalRequests.length === 0" class="no-requests">
+            Nu există cereri pentru acest produs.
+          </div>
+          <div *ngFor="let req of rentalRequests" class="request-card">
+            <div><strong>Nume:</strong> {{ req.userName }}</div>
+            <div><strong>Email:</strong> {{ req.email }}</div>
+            <div><strong>Telefon:</strong> {{ req.telephoneNumber }}</div>
+            <div>
+              <strong>Perioadă:</strong>
+              {{ req.startDate | date:'shortDate' }} - {{ req.endDate | date:'shortDate' }}
+            </div>
+            <div>
+              <strong>Total:</strong> {{ req.totalPrice }} RON
+            </div>
+          </div>
+        </div>
+
+        <div class="rental-actions">
+          <button class="edit-btn" (click)="editProduct(product.id)">Modifică produs</button>
+          <button class="delete-btn" (click)="deleteProduct(product.id)">Șterge produs</button>
+        </div>
+      </div>
+    </div>
+    <ng-template #noProducts>
+      <p class="no-rentals">Nu ai produse postate.</p>
+    </ng-template>
+  </div>
+</div>

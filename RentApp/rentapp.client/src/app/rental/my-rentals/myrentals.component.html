@@ -1,0 +1,50 @@
+<div class="page-wrapper">
+  <header class="main-header">
+    <h1>ÎNCHIRIERILE MELE</h1>
+  </header>
+
+  <div class="rentals-container">
+    <h2 class="section-title">Istoric închirieri</h2>
+
+    <div *ngIf="loading" class="loader-overlay">
+      <div class="loader"></div>
+    </div>
+
+    <p class="message" *ngIf="message">{{ message }}</p>
+
+    <div *ngIf="rentals.length > 0; else noRentals">
+      <div class="rental-card"
+           *ngFor="let rental of rentals"
+           [class.selected]="openReviewForRentalId === rental.rentalId">
+        <h3 class="product-name">{{ rental.productName || 'Produs necunoscut' }}</h3>
+        <div class="rental-details">
+          <div class="detail-item">
+            <strong>Perioadă:</strong><br>
+            {{ rental.startDate | date:'shortDate' }} - {{ rental.endDate | date:'shortDate' }}
+          </div>
+          <div class="detail-item">
+            <strong>Total:</strong><br>
+            {{ rental.totalPrice }} RON
+          </div>
+          <div class="detail-item">
+            <strong>Status:</strong><br>
+            <span [ngClass]="rental.status.toLowerCase()">{{ rental.status }}</span>
+          </div>
+        </div>
+        <div class="rental-actions">
+          <button *ngIf="rental.status === 'Finalizat'" (click)="showReviewPopup(rental.rentalId)" class="review-btn">Adaugă recenzie</button>
+          <button (click)="confirmDelete(rental.rentalId)" class="delete-btn">Șterge închirierea</button>
+        </div>
+        <app-review *ngIf="openReviewForRentalId === rental.rentalId"
+                    [productId]="rental.productId"
+                    (submitted)="handleReviewSubmit($event, rental)"
+                    (canceled)="closeReviewPopup()">
+        </app-review>
+      </div>
+    </div>
+
+    <ng-template #noRentals>
+      <p class="no-rentals">Nu ai închirieri active.</p>
+    </ng-template>
+  </div>
+</div>

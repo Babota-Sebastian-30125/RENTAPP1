@@ -1,0 +1,177 @@
+.page-wrapper {
+  background-color: #f4f7fa;
+  min-height: 100vh;
+  padding: 2rem 1rem;
+}
+
+.main-header {
+  text-align: center;
+  background-color: #007bbd;
+  color: #ffffff;
+  padding: 1.5rem 0;
+  margin-bottom: 2rem;
+  border-radius: 8px;
+}
+
+.rentals-container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 1.5rem;
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.section-title {
+  text-align: center;
+  color: #34495e;
+  margin-bottom: 1.5rem;
+  font-size: 1.6rem;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.5rem;
+}
+
+.rental-card {
+  background-color: #fefefe;
+  border-left: 5px solid #3498db;
+  margin-bottom: 1.5rem;
+  padding: 1rem 1.5rem;
+  border-radius: 8px;
+  transition: transform 0.2s, box-shadow 0.2s, border 0.2s, background 0.2s;
+}
+
+  .rental-card.selected {
+    border: 2px solid #007bbd;
+    box-shadow: 0 0 0 2px #b3e0ff;
+    background-color: #f0f8ff;
+  }
+
+    .rental-card.selected:hover {
+      box-shadow: 0 0 0 4px #b3e0ff, 0 4px 8px rgba(0,0,0,0.07);
+    }
+
+  .rental-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.07);
+  }
+
+.product-name {
+  margin-top: 0;
+  color: #2c3e50;
+  font-size: 1.3rem;
+  margin-bottom: 0.75rem;
+}
+
+.rental-details {
+  display: flex;
+  justify-content: space-between;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.detail-item {
+  flex: 1;
+  min-width: 150px;
+  color: #555;
+}
+
+span.activ {
+  color: #27ae60;
+  font-weight: bold;
+}
+
+span.inactiv {
+  color: #c0392b;
+  font-weight: bold;
+}
+
+span.finalizat {
+  color: #3498db;
+  font-weight: bold;
+}
+
+.no-rentals {
+  text-align: center;
+  color: #7f8c8d;
+  font-size: 1.1rem;
+}
+
+.rental-actions {
+  margin-top: 1rem;
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.review-btn, .delete-btn {
+  padding: 0.5rem 1.2rem;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 500;
+  transition: background-color 0.2s, color 0.2s;
+}
+
+.review-btn {
+  background-color: #007bbd;
+  color: white;
+}
+
+  .review-btn:hover {
+    background-color: #005fa3;
+  }
+
+.delete-btn {
+  background-color: #e74c3c;
+  color: white;
+}
+
+  .delete-btn:hover {
+    background-color: #c0392b;
+  }
+
+.message {
+  margin: 1rem auto;
+  max-width: 600px;
+  padding: 0.75rem 1.2rem;
+  border-radius: 6px;
+  font-weight: 500;
+  font-size: 1.05rem;
+  background: #eaf6ff;
+  color: #007bbd;
+  text-align: center;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+}
+
+.loader-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(255,255,255,0.5);
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.loader {
+  border: 6px solid #f3f3f3;
+  border-top: 6px solid #007bbd;
+  border-radius: 50%;
+  width: 48px;
+  height: 48px;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}

@@ -1,0 +1,51 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* Stiluri globale */
+html, body {
+  height: 100%;
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f0f8ff; /* albastru deschis */
+  color: #333;
+}
+
+/* Navbar */
+nav {
+  background-color: #e3f2fd;
+  padding: 1rem 2rem;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  border-radius: 0 0 10px 10px;
+}
+
+  nav a {
+    color: #007bff;
+    font-weight: 500;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    transition: background-color 0.2s ease;
+  }
+
+    nav a:hover {
+      background-color: #d0ebff;
+    }
+
+/* Stil global pentru butoane */
+button {
+  background-color: #007bff;
+  color: white;
+  padding: 0.6rem 1.2rem;
+  border: none;
+  border-radius: 8px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+  button:hover {
+    background-color: #0056b3;
+  }
+

@@ -1,0 +1,124 @@
+.login-page {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 6vw; 
+  height: 100vh;
+  background-color: #f0f8ff;
+  font-family: 'Segoe UI', sans-serif;
+  padding-top: 6vh; 
+}
+
+.left-panel,
+.center-panel {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+.text-content {
+  text-align: left; 
+  max-width: 600px;
+  width: 100%;
+}
+
+.brand-title {
+  font-size: 2.8rem;
+  color: #007bff;
+  margin-bottom: 1rem; 
+}
+
+.welcome-message {
+  font-size: 1.2rem;
+  color: #333;
+  margin-bottom: 2rem; 
+}
+
+.rent-banner {
+  width: auto; 
+  max-width: 100%; 
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+.center-panel {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding-top: 11vh;
+  margin-left: 4vw; 
+}
+
+
+.login-container {
+  width: 100%;
+  max-width: 400px;
+  min-height: 420px; 
+  padding: 2rem;
+  background-color: #ffffff;
+  border: 1px solid #cce4ff;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; 
+}
+
+
+  .login-container h2 {
+    text-align: center;
+    color: #007bff;
+    margin-bottom: 1.5rem;
+  }
+
+.form-group {
+  margin-bottom: 1rem;
+}
+
+label {
+  display: block;
+  font-weight: 500;
+  margin-bottom: 0.5rem;
+}
+
+input {
+  width: 100%;
+  padding: 0.5rem;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+}
+
+button {
+  width: 100%;
+  background-color: #007bff;
+  color: white;
+  padding: 0.6rem;
+  border: none;
+  border-radius: 6px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+  button:hover {
+    background-color: #0056b3;
+  }
+
+.error-message {
+  color: red;
+  margin: 1rem 0;
+  text-align: center;
+  font-weight: 500;
+}
+
+.success-message {
+  color: green;
+  margin: 1rem 0;
+  text-align: center;
+  font-weight: 500;
+}

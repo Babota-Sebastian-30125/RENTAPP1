@@ -1,0 +1,32 @@
+<div class="product-list-wrapper">
+
+  <div class="product-list">
+    <div *ngFor="let product of favoriteProducts" class="product-card">
+      <div class="product-card-header">
+        <button (click)="toggleFavorite(product.id)" class="favorite-btn"
+                title="Elimină din favorite">
+          <span>❤️</span>
+        </button>
+      </div>
+      <div class="product-image-container">
+        <img *ngIf="product.imagePath" [src]="getImageUrl(product.imagePath)" alt="Imagine produs" class="product-image" />
+        <div *ngIf="!product.imagePath" class="no-image">Fără imagine</div>
+      </div>
+
+      <div class="product-info">
+        <h3 class="product-title">{{ product.name }}</h3>
+        <p class="product-description">{{ product.description }}</p>
+        <p class="product-price">{{ product.pricePerDay }} RON/zi</p>
+
+
+        <div class="product-buttons">
+          <button class="btn-details" (click)="viewDetails(product.id)">Vezi detalii</button>
+          <button class="btn-rent" (click)="rentProduct(product.id.toString())">Închiriază</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div *ngIf="favoriteProducts.length === 0" class="no-products">
+    <p>Nu ai produse favorite.</p>
+  </div>
+</div>

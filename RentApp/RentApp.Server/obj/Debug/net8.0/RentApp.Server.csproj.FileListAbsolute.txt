@@ -1,0 +1,759 @@
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\spa.proxy.json
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\appsettings.Development.json
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\appsettings.json
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\libman.json
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\RentApp.Server.staticwebassets.runtime.json
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\RentApp.Server.staticwebassets.endpoints.json
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\RentApp.Server.exe
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\RentApp.Server.deps.json
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\RentApp.Server.runtimeconfig.json
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\RentApp.Server.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\RentApp.Server.pdb
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\Azure.Core.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\Azure.Identity.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\Humanizer.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\Scrutor.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\System.CodeDom.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Rent_it\RentAppV2\RentApp.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Rent_it\RentAppV2\RentApp.Server\obj\Debug\net8.0\RentApp.Server.csproj.AssemblyReference.cache
+D:\Rent_it\RentAppV2\RentApp.Server\obj\Debug\net8.0\spa.proxy.json
+D:\Rent_it\RentAppV2\RentApp.Server\obj\Debug\net8.0\RentApp.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rent_it\RentAppV2\RentApp.Server\obj\Debug\net8.0\RentApp.Server.AssemblyInfoInputs.cache
+D:\Rent_it\RentAppV2\RentApp.Server\obj\Debug\net8.0\RentApp.Server.AssemblyInfo.cs
+D:\Rent_it\RentAppV2\RentApp.Server\obj\Debug\net8.0\RentApp.Server.csproj.CoreCompileInputs.cache
+D:\Rent_it\RentAppV2\RentApp.Server\obj\Debug\net8.0\RentApp.Server.MvcApplicationPartsAssemblyInfo.cs
+D:\Rent_it\RentAppV2\RentApp.Server\obj\Debug\net8.0\RentApp.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\Rent_it\RentAppV2\RentApp.Server\obj\Debug\net8.0\RentApp.Server.sourcelink.json
+D:\Rent_it\RentAppV2\RentApp.Server\obj\Debug\net8.0\scopedcss\bundle\RentApp.Server.styles.css
+D:\Rent_it\RentAppV2\RentApp.Server\obj\Debug\net8.0\staticwebassets.build.json
+D:\Rent_it\RentAppV2\RentApp.Server\obj\Debug\net8.0\staticwebassets.development.json
+D:\Rent_it\RentAppV2\RentApp.Server\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Rent_it\RentAppV2\RentApp.Server\obj\Debug\net8.0\staticwebassets\msbuild.RentApp.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Rent_it\RentAppV2\RentApp.Server\obj\Debug\net8.0\staticwebassets\msbuild.RentApp.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Rent_it\RentAppV2\RentApp.Server\obj\Debug\net8.0\staticwebassets\msbuild.build.RentApp.Server.props
+D:\Rent_it\RentAppV2\RentApp.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RentApp.Server.props
+D:\Rent_it\RentAppV2\RentApp.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RentApp.Server.props
+D:\Rent_it\RentAppV2\RentApp.Server\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Rent_it\RentAppV2\RentApp.Server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Rent_it\RentAppV2\RentApp.Server\obj\Debug\net8.0\RentApp..C944C366.Up2Date
+D:\Rent_it\RentAppV2\RentApp.Server\obj\Debug\net8.0\RentApp.Server.dll
+D:\Rent_it\RentAppV2\RentApp.Server\obj\Debug\net8.0\refint\RentApp.Server.dll
+D:\Rent_it\RentAppV2\RentApp.Server\obj\Debug\net8.0\RentApp.Server.pdb
+D:\Rent_it\RentAppV2\RentApp.Server\obj\Debug\net8.0\RentApp.Server.genruntimeconfig.cache
+D:\Rent_it\RentAppV2\RentApp.Server\obj\Debug\net8.0\ref\RentApp.Server.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\appsettings.Development.json
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\spa.proxy.json
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\appsettings.json
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\libman.json
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\RentApp.Server.staticwebassets.runtime.json
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\RentApp.Server.staticwebassets.endpoints.json
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\RentApp.Server.exe
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\RentApp.Server.deps.json
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\RentApp.Server.runtimeconfig.json
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\RentApp.Server.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\RentApp.Server.pdb
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\Azure.Core.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\Azure.Identity.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\Humanizer.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\Scrutor.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\System.CodeDom.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\obj\Debug\net8.0\RentApp.Server.csproj.AssemblyReference.cache
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\obj\Debug\net8.0\spa.proxy.json
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\obj\Debug\net8.0\RentApp.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\obj\Debug\net8.0\RentApp.Server.AssemblyInfoInputs.cache
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\obj\Debug\net8.0\RentApp.Server.AssemblyInfo.cs
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\obj\Debug\net8.0\RentApp.Server.csproj.CoreCompileInputs.cache
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\obj\Debug\net8.0\RentApp.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\obj\Debug\net8.0\RentApp.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\obj\Debug\net8.0\RentApp.Server.sourcelink.json
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\obj\Debug\net8.0\scopedcss\bundle\RentApp.Server.styles.css
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\obj\Debug\net8.0\staticwebassets.build.json
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\obj\Debug\net8.0\staticwebassets.development.json
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\obj\Debug\net8.0\staticwebassets\msbuild.RentApp.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\obj\Debug\net8.0\staticwebassets\msbuild.RentApp.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\obj\Debug\net8.0\staticwebassets\msbuild.build.RentApp.Server.props
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RentApp.Server.props
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RentApp.Server.props
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\obj\Debug\net8.0\RentApp..C944C366.Up2Date
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\obj\Debug\net8.0\RentApp.Server.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\obj\Debug\net8.0\refint\RentApp.Server.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\obj\Debug\net8.0\RentApp.Server.pdb
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\obj\Debug\net8.0\RentApp.Server.genruntimeconfig.cache
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\RentApp.Server\obj\Debug\net8.0\ref\RentApp.Server.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\appsettings.Development.json
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\appsettings.json
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\spa.proxy.json
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\libman.json
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\RentApp.Server.staticwebassets.runtime.json
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\RentApp.Server.staticwebassets.endpoints.json
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\RentApp.Server.exe
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\RentApp.Server.deps.json
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\RentApp.Server.runtimeconfig.json
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\RentApp.Server.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\RentApp.Server.pdb
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\Azure.Core.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\Azure.Identity.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\Humanizer.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\Scrutor.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\System.CodeDom.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\obj\Debug\net8.0\RentApp.Server.csproj.AssemblyReference.cache
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\obj\Debug\net8.0\spa.proxy.json
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\obj\Debug\net8.0\RentApp.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\obj\Debug\net8.0\RentApp.Server.AssemblyInfoInputs.cache
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\obj\Debug\net8.0\RentApp.Server.AssemblyInfo.cs
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\obj\Debug\net8.0\RentApp.Server.csproj.CoreCompileInputs.cache
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\obj\Debug\net8.0\RentApp.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\obj\Debug\net8.0\RentApp.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\obj\Debug\net8.0\scopedcss\bundle\RentApp.Server.styles.css
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\obj\Debug\net8.0\staticwebassets.build.json
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\obj\Debug\net8.0\staticwebassets.development.json
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\obj\Debug\net8.0\staticwebassets\msbuild.RentApp.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\obj\Debug\net8.0\staticwebassets\msbuild.RentApp.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\obj\Debug\net8.0\staticwebassets\msbuild.build.RentApp.Server.props
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RentApp.Server.props
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RentApp.Server.props
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\obj\Debug\net8.0\RentApp..C944C366.Up2Date
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\obj\Debug\net8.0\RentApp.Server.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\obj\Debug\net8.0\refint\RentApp.Server.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\obj\Debug\net8.0\RentApp.Server.pdb
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\obj\Debug\net8.0\RentApp.Server.genruntimeconfig.cache
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\RentApp.Server\obj\Debug\net8.0\ref\RentApp.Server.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\appsettings.Development.json
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\appsettings.json
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\libman.json
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\RentApp.Server.staticwebassets.endpoints.json
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\spa.proxy.json
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\RentApp.Server.staticwebassets.runtime.json
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\RentApp.Server.exe
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\RentApp.Server.deps.json
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\RentApp.Server.runtimeconfig.json
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\RentApp.Server.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\RentApp.Server.pdb
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\Azure.Core.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\Azure.Identity.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\Humanizer.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\Scrutor.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\System.CodeDom.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\obj\Debug\net8.0\RentApp.Server.csproj.AssemblyReference.cache
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\obj\Debug\net8.0\spa.proxy.json
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\obj\Debug\net8.0\RentApp.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\obj\Debug\net8.0\RentApp.Server.AssemblyInfoInputs.cache
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\obj\Debug\net8.0\RentApp.Server.AssemblyInfo.cs
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\obj\Debug\net8.0\RentApp.Server.csproj.CoreCompileInputs.cache
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\obj\Debug\net8.0\RentApp.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\obj\Debug\net8.0\RentApp.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\obj\Debug\net8.0\RentApp.Server.sourcelink.json
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\obj\Debug\net8.0\scopedcss\bundle\RentApp.Server.styles.css
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\obj\Debug\net8.0\staticwebassets.build.json
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\obj\Debug\net8.0\staticwebassets.development.json
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\obj\Debug\net8.0\staticwebassets\msbuild.RentApp.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\obj\Debug\net8.0\staticwebassets\msbuild.RentApp.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\obj\Debug\net8.0\staticwebassets\msbuild.build.RentApp.Server.props
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RentApp.Server.props
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RentApp.Server.props
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\obj\Debug\net8.0\RentApp..C944C366.Up2Date
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\obj\Debug\net8.0\RentApp.Server.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\obj\Debug\net8.0\refint\RentApp.Server.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\obj\Debug\net8.0\RentApp.Server.pdb
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\obj\Debug\net8.0\RentApp.Server.genruntimeconfig.cache
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\obj\Debug\net8.0\ref\RentApp.Server.dll
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\RentApp.Server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\appsettings.Development.json
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\libman.json
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\spa.proxy.json
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\appsettings.json
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\RentApp.Server.staticwebassets.runtime.json
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\RentApp.Server.staticwebassets.endpoints.json
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\RentApp.Server.exe
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\RentApp.Server.deps.json
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\RentApp.Server.runtimeconfig.json
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\RentApp.Server.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\RentApp.Server.pdb
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\Azure.Core.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\Azure.Identity.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\Humanizer.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\Scrutor.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\System.CodeDom.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\obj\Debug\net8.0\RentApp.Server.csproj.AssemblyReference.cache
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\obj\Debug\net8.0\spa.proxy.json
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\obj\Debug\net8.0\RentApp.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\obj\Debug\net8.0\RentApp.Server.AssemblyInfoInputs.cache
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\obj\Debug\net8.0\RentApp.Server.AssemblyInfo.cs
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\obj\Debug\net8.0\RentApp.Server.csproj.CoreCompileInputs.cache
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\obj\Debug\net8.0\RentApp.Server.MvcApplicationPartsAssemblyInfo.cs
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\obj\Debug\net8.0\RentApp.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\obj\Debug\net8.0\scopedcss\bundle\RentApp.Server.styles.css
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\obj\Debug\net8.0\staticwebassets.build.json
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\obj\Debug\net8.0\staticwebassets.development.json
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\obj\Debug\net8.0\staticwebassets\msbuild.RentApp.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\obj\Debug\net8.0\staticwebassets\msbuild.RentApp.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\obj\Debug\net8.0\staticwebassets\msbuild.build.RentApp.Server.props
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RentApp.Server.props
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RentApp.Server.props
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\obj\Debug\net8.0\RentApp..C944C366.Up2Date
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\obj\Debug\net8.0\RentApp.Server.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\obj\Debug\net8.0\refint\RentApp.Server.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\obj\Debug\net8.0\RentApp.Server.pdb
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\obj\Debug\net8.0\RentApp.Server.genruntimeconfig.cache
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\obj\Debug\net8.0\ref\RentApp.Server.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\Castle.Core.dll
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\RentApp.Server\bin\Debug\net8.0\Moq.dll

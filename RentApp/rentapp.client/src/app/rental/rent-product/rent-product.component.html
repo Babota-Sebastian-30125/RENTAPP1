@@ -1,0 +1,31 @@
+<div class="rent-container">
+  <div class="rent-card">
+    <h2 class="rent-heading">ÎNCHIRIERE PRODUS</h2>
+
+    <form class="rent-form" (ngSubmit)="calculateTotal()">
+      <div class="form-group">
+        <label for="startDate">Data de început</label>
+        <input type="date" id="startDate" [(ngModel)]="startDate" name="startDate" class="form-input" required>
+      </div>
+
+      <div class="form-group">
+        <label for="endDate">Data de sfârșit</label>
+        <input type="date" id="endDate" [(ngModel)]="endDate" name="endDate" class="form-input" required>
+      </div>
+
+      <button type="submit" class="rent-btn">Calculează costul</button>
+    </form>
+
+   
+    <div *ngIf="showPreview" class="preview-box">
+      <h3>Previzualizare închiriere</h3>
+      <p><strong>Perioadă:</strong> {{ startDate }} - {{ endDate }}</p>
+      <p><strong>Preț/zi:</strong> {{ pricePerDay }} RON</p>
+      <p><strong>Total:</strong> {{ totalPrice }} RON</p>
+
+      <button (click)="rentProduct()" class="rent-btn">Finalizare închiriere</button>
+    </div>
+
+    <p class="message" *ngIf="message">{{ message }}</p>
+  </div>
+</div>

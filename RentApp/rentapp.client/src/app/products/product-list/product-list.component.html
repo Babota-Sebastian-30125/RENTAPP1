@@ -1,0 +1,92 @@
+<div class="filters-container">
+  <div class="filter-group">
+    <!-- Căutare -->
+    <input type="text"
+           [(ngModel)]="searchQuery"
+           placeholder="Căutare produs..."
+           class="filter-input" />
+
+    <!-- Categorie - din backend -->
+    <select [(ngModel)]="selectedCategory" class="filter-select">
+      <option value="">Toate categoriile</option>
+      <option *ngFor="let category of categories" [value]="category">{{ category }}</option>
+    </select>
+
+    <!-- Preț min/max -->
+    <input type="number" [(ngModel)]="minPrice" placeholder="Preț minim" class="filter-input small" />
+    <input type="number" [(ngModel)]="maxPrice" placeholder="Preț maxim" class="filter-input small" />
+
+    <!-- Locație - din backend -->
+    <select [(ngModel)]="selectedLocation" class="filter-select">
+      <option value="">Toate locațiile</option>
+      <option *ngFor="let location of locations" [value]="location">{{ location }}</option>
+    </select>
+
+    <!-- Sortare -->
+    <select [(ngModel)]="sortBy" class="filter-select">
+      <option value="price">Preț</option>
+      <option value="rating">Rating</option>
+      <option value="newest">Cele mai recente</option>
+    </select>
+
+    <!-- Buton pentru a aplica toate filtrele odată -->
+    <button (click)="applyAllFilters()" class="btn-filter">Filtrează</button>
+    
+    <!-- Buton pentru a reseta filtrele -->
+    <button (click)="resetFilters()" class="btn-reset">Resetează</button>
+  </div>
+</div>
+
+<!-- Indicator de încărcare -->
+<div *ngIf="isLoading" class="loading-indicator">
+  <div class="spinner"></div>
+  <p>Se încarcă produsele...</p>
+</div>
+
+<!-- Lista de produse -->
+<div class="product-list-wrapper" *ngIf="!isLoading">
+  <div class="product-list">
+    <div *ngFor="let product of filteredProducts" class="product-card">
+      <div class="product-card-header">
+        <button (click)="toggleFavorite(product.id)" class="favorite-btn"
+                [title]="isFavorite(product.id) ? 'Șterge din favorite' : 'Adaugă la favorite'">
+          <span *ngIf="isFavorite(product.id)">❤️</span>
+          <span *ngIf="!isFavorite(product.id)">🤍</span>
+        </button>
+      </div>
+      <div class="product-image-container">
+        <img *ngIf="product.imagePath" [src]="product.imagePath" alt="Imagine produs" class="product-image" />
+        <div *ngIf="!product.imagePath" class="no-image">Fără imagine</div>
+      </div>
+
+      <div class="product-info">
+        <h3 class="product-title">{{ product.name }}</h3>
+        <p class="product-description">{{ product.description }}</p>
+        <p class="product-price">{{ product.pricePerDay }} RON/zi</p>
+
+        <div class="product-buttons">
+          <button class="btn-details" (click)="viewDetails(product.id)">Vezi detalii</button>
+          <button class="btn-rent" (click)="rentProduct(product.id.toString())">Închiriază</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Mesaj când nu există produse -->
+  <div *ngIf="filteredProducts.length === 0 && !isLoading" class="no-products">
+    <p>Nu s-au găsit produse care să corespundă criteriilor tale de căutare.</p>
+    <button (click)="resetFilters()" class="btn-reset">Resetează filtrele</button>
+  </div>
+
+  <!-- Pop-up-ul apare peste gridul de produse -->
+  <div class="popup-over-grid" *ngIf="showLoginPopup">
+    <div class="popup">
+      <div class="popup-title">Autentificare necesară!</div>
+      <p>Trebuie să fii conectat pentru a închiria un produs!</p>
+      <div class="popup-actions">
+        <button (click)="goToLogin()">Mergi la autentificare</button>
+        <button (click)="closePopup()" class="btn-cancel">Renunță</button>
+      </div>
+    </div>
+  </div>
+</div>

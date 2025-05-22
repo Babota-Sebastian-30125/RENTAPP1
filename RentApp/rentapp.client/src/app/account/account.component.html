@@ -1,0 +1,47 @@
+<div class="account-wrapper" *ngIf="userName">
+  <div class="account-content">
+    <h1 class="welcome-message">Bine ai venit, <strong>{{ userName }}</strong>!</h1>
+  </div>
+
+
+  <div class="accordion-box" [class.open]="showDetails">
+    <h2>Detalii despre cont:</h2>
+    <div class="details-content">
+      <p><strong>E-mail:</strong> {{ userEmail }}</p>
+      <p><strong>Telefon:</strong> {{ userTelephone }}</p>
+    </div>
+  </div>
+
+
+  <div class="accordion-box" [class.open]="showChangePassword">
+    <h2>Schimbă parola:</h2>
+    <div class="details-content">
+      <input [(ngModel)]="oldPassword" type="password" placeholder="Parola veche" class="form-input" />
+      <input [(ngModel)]="newPassword" type="password" placeholder="Parola nouă" class="form-input" />
+      <button type="button" (click)="changePassword()" class="save-btn">Salvează</button>
+      <p *ngIf="message" [ngClass]="{ success: message.includes('succes'), error: !message.includes('succes') }">
+        {{ message }}
+      </p>
+    </div>
+  </div>
+  <div class="button-group">
+    <button type="button" (click)="showDetails = !showDetails" [class.active]="showDetails">
+      Detaliile contului
+    </button>
+    <button type="button" (click)="showChangePassword = !showChangePassword" [class.active]="showChangePassword">
+      Schimbă parola
+    </button>
+    <button type="button" (click)="goToMyRentals()">
+      Închirierile tale
+    </button>
+    <button type="button" (click)="goToMyProducts()">
+      Produsele tale
+    </button>
+    <button type="button" class="delete-btn" (click)="deleteAccount()">Șterge contul</button>
+  </div>
+
+<ng-template #notLogged>
+  <div class="not-logged-in">
+    <p>Nu ești logat!</p>
+  </div>
+</ng-template>

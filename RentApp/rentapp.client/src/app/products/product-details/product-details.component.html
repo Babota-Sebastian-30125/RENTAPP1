@@ -1,0 +1,87 @@
+<!-- Afișăm un mesaj de încărcare când isLoading e true -->
+<div class="loading-container" *ngIf="isLoading">
+  <div class="loading-spinner"></div>
+  <p>Se încarcă detaliile produsului...</p>
+</div>
+
+<!-- Afișăm mesaj de eroare dacă există -->
+<div class="error-message" *ngIf="errorMessage">
+  <p>{{ errorMessage }}</p>
+  <button class="back-btn" (click)="goBack()">Înapoi la produse</button>
+</div>
+
+<!-- Conținutul principal când produsul este încărcat -->
+<div class="details-container" *ngIf="product && !isLoading && !errorMessage">
+  <div class="button-container">
+    <button class="back-btn" (click)="goBack()">Înapoi la produse</button>
+  </div>
+  <div class="details-flex">
+    <!-- Partea stângă: info -->
+    <div class="details-info">
+      <h2>{{ product.name }}</h2>
+      <div class="info-box">
+        <div class="info-item">
+          <span class="label">Postat de:</span>
+          <span class="value">{{ product.userName }}</span>
+        </div>
+        <div class="info-item">
+          <span class="label">Adăugat la data de:</span>
+          <span class="value">{{ product.addedAt | date:'dd.MM.yyyy' }}</span>
+        </div>
+        <div class="info-item">
+          <span class="label">Locație:</span>
+          <span class="value">{{ product.location }}</span>
+        </div>
+        <div class="info-item">
+          <span class="label">Preț/zi:</span>
+          <span class="value highlight-price">{{ product.pricePerDay }} RON</span>
+        </div>
+        <div class="info-item">
+          <span class="label">Disponibil:</span>
+          <span class="value availability">{{ product.available ? 'Da' : 'Nu' }}</span>
+        </div>
+        <div *ngIf="product.telephoneNumber" class="info-item">
+          <span class="label">Telefon:</span>
+          <span class="value">{{ product.telephoneNumber }}</span>
+        </div>
+      </div>
+
+      <!-- SECȚIUNEA DE RATING ȘI RECENZII -->
+      <div class="info-box">
+        <div class="info-item">
+          <span class="label" style="font-size:1.1rem;">Medie recenzii:</span>
+          <div class="stars-row">
+            <ng-container *ngFor="let star of [1,2,3,4,5]">
+              <span class="star" [class.filled]="star <= Math.round(averageRating)">&#9733;</span>
+            </ng-container>
+            <span class="average-value">({{ averageRating | number:'1.1-2' }})</span>
+          </div>
+        </div>
+        <div class="info-item">
+          <span class="label" style="font-size:1.1rem;">Comentarii:</span>
+          <div *ngIf="reviews.length === 0" class="no-reviews">Nu există recenzii pentru acest produs.</div>
+          <div *ngFor="let review of reviews" class="review-comment">
+            <div class="review-stars">
+              <ng-container *ngFor="let star of [1,2,3,4,5]">
+                <span class="star small" [class.filled]="star <= review.stars">&#9733;</span>
+              </ng-container>
+              <span class="review-date">{{ review.date ? (review.date | date:'short') : '' }}</span>
+            </div>
+            <div class="review-text">{{ review.comment }}</div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- Partea dreaptă: poză și descriere -->
+    <div class="details-image-desc">
+      <img *ngIf="product.imagePath" [src]="product.imagePath" [alt]="product.name" class="details-image" />
+      <div *ngIf="!product.imagePath" class="no-image">Fără imagine</div>
+      <div class="details-description">
+        <h3>Descriere</h3>
+        <p>{{ product.description }}</p>
+      </div>
+    </div>
+  </div>
+</div>

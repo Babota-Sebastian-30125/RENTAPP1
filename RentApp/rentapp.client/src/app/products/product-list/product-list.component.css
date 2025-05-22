@@ -1,0 +1,366 @@
+.filters-container {
+  margin-bottom: 2rem;
+  padding: 1.5rem;
+  background-color: #f1f9ff;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.filter-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  align-items: center;
+}
+
+.filter-input,
+.filter-select {
+  padding: 0.8rem;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  font-size: 0.95rem;
+  min-width: 180px;
+  background-color: white;
+  transition: border-color 0.3s ease;
+}
+
+  .filter-input:focus,
+  .filter-select:focus {
+    outline: none;
+    border-color: #007bbd;
+  }
+
+  .filter-input.small {
+    width: 120px;
+  }
+
+.btn-filter {
+  background-color: #007bbd;
+  color: white;
+  border: none;
+  padding: 0.8rem 1.5rem;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+  .btn-filter:hover {
+    background-color: #005a8c;
+    transform: translateY(-1px);
+  }
+
+/* Buton de resetare filtre */
+.btn-reset {
+  background-color: #f1f1f1;
+  color: #444;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 0.6rem 1rem;
+  cursor: pointer;
+  font-weight: 500;
+  transition: all 0.2s;
+}
+
+  .btn-reset:hover {
+    background-color: #e0e0e0;
+  }
+
+/* Loading indicator */
+.loading-indicator {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+  margin: 1rem auto;
+  width: 100%;
+  max-width: 300px;
+  text-align: center;
+}
+
+.spinner {
+  width: 40px;
+  height: 40px;
+  border: 4px solid rgba(0, 123, 189, 0.2);
+  border-radius: 50%;
+  border-top-color: #007bbd;
+  animation: spin 1s ease-in-out infinite;
+  margin-bottom: 1rem;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Stiluri pentru când nu există produse */
+.no-products {
+  text-align: center;
+  padding: 2rem;
+  font-size: 1.1rem;
+  color: #555;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  margin: 1rem 0;
+}
+
+.product-list-wrapper {
+  position: relative;
+}
+
+.product-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 2rem;
+  padding: 1rem;
+}
+
+.product-card {
+  position: relative;
+  background-color: white;
+  border-radius: 12px;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+  .product-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.15);
+  }
+
+.product-card-header {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  z-index: 2;
+}
+
+.favorite-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 8px;
+  border-radius: 50%;
+  background-color: rgba(255, 255, 255, 0.9);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease;
+}
+
+  .favorite-btn:hover {
+    transform: scale(1.1);
+  }
+
+.product-image-container {
+  width: 100%;
+  height: 200px;
+  overflow: hidden;
+}
+
+.product-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+/* Stiluri pentru produse fără imagine */
+.no-image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 150px;
+  background-color: #f1f1f1;
+  color: #888;
+  font-size: 0.9rem;
+}
+
+.product-card:hover .product-image {
+  transform: scale(1.05);
+}
+
+.product-info {
+  padding: 1.5rem;
+}
+
+.product-title {
+  font-size: 1.2rem;
+  color: #007bbd;
+  margin: 0 0 0.5rem 0;
+  font-weight: 600;
+}
+
+.product-description {
+  color: #666;
+  font-size: 0.9rem;
+  margin: 0.5rem 0;
+  line-height: 1.4;
+  max-height: 2.8em;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+.product-price {
+  font-size: 1.1rem;
+  color: #2c3e50;
+  font-weight: 600;
+  margin: 0.8rem 0;
+}
+
+/* Informații suplimentare despre produs */
+.product-details {
+  display: flex;
+  gap: 1rem;
+  font-size: 0.85rem;
+  color: #666;
+  margin-bottom: 0.8rem;
+}
+
+.product-category, .product-location {
+  background-color: #f1f9ff;
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+  border: 1px solid #e1e9ef;
+}
+
+.product-buttons {
+  display: flex;
+  gap: 0.8rem;
+  margin-top: 1rem;
+}
+
+.btn-details,
+.btn-rent {
+  flex: 1;
+  padding: 0.8rem;
+  border: none;
+  border-radius: 8px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.btn-details {
+  background-color: #f1f9ff;
+  color: #007bbd;
+  border: 1px solid #007bbd;
+}
+
+  .btn-details:hover {
+    background-color: #e1f1ff;
+  }
+
+.btn-rent {
+  background-color: #007bbd;
+  color: white;
+}
+
+  .btn-rent:hover {
+    background-color: #005a8c;
+  }
+
+/* POPUP styling */
+.popup-over-grid {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0,0,0,0.25);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 100;
+}
+
+.popup {
+  background: #fff;
+  padding: 2.5rem 2rem 2rem 2rem;
+  border-radius: 18px;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.18);
+  min-width: 320px;
+  max-width: 90vw;
+  text-align: center;
+  position: relative;
+  animation: popup-fade-in 0.25s;
+}
+
+@keyframes popup-fade-in {
+  from {
+    transform: scale(0.95);
+    opacity: 0;
+  }
+
+  to {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+.popup-title {
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: #007bbd;
+  margin-bottom: 1rem;
+  letter-spacing: 0.5px;
+}
+
+.popup p {
+  font-size: 1.08rem;
+  color: #2c3e50;
+  margin-bottom: 2rem;
+  font-weight: 500;
+}
+
+.popup-actions {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.popup button {
+  padding: 0.6rem 1.5rem;
+  border: none;
+  border-radius: 8px;
+  background: #007bbd;
+  color: #fff;
+  cursor: pointer;
+  font-weight: 500;
+  font-size: 1rem;
+  transition: background 0.2s;
+  box-shadow: 0 2px 8px rgba(0,123,189,0.08);
+}
+
+  .popup button.btn-cancel {
+    background: #aaa;
+  }
+
+  .popup button:hover:not(.btn-cancel) {
+    background: #005a8c;
+  }
+
+  .popup button.btn-cancel:hover {
+    background: #888;
+  }
+
+@media (max-width: 768px) {
+  .product-list {
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 1rem;
+  }
+
+  .filter-group {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .filter-input,
+  .filter-select {
+    width: 100%;
+  }
+}

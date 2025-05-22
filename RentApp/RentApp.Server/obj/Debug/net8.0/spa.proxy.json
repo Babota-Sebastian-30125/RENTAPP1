@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:61670",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\..\\rentapp.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

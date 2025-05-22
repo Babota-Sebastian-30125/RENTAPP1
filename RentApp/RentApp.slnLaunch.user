@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "RentApp.Server\\RentApp.Server.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "rentapp.client\\RentApp.client.esproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

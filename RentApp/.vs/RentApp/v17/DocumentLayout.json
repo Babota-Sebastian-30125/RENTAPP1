@@ -1,0 +1,845 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C09AD0F5-0EB0-4F92-AD8E-849B4DD88A66}|RentApp.Tests\\RentApp.Tests.csproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.tests\\rentalcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09AD0F5-0EB0-4F92-AD8E-849B4DD88A66}|RentApp.Tests\\RentApp.Tests.csproj|solutionrelative:rentapp.tests\\rentalcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.server\\controllers\\rentalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|solutionrelative:rentapp.server\\controllers\\rentalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.server\\models\\dto\\rental\\messageresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|solutionrelative:rentapp.server\\models\\dto\\rental\\messageresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.server\\models\\dto\\user\\messageresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|solutionrelative:rentapp.server\\models\\dto\\user\\messageresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.server\\models\\dto\\product\\messageresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|solutionrelative:rentapp.server\\models\\dto\\product\\messageresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09AD0F5-0EB0-4F92-AD8E-849B4DD88A66}|RentApp.Tests\\RentApp.Tests.csproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.tests\\usercontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09AD0F5-0EB0-4F92-AD8E-849B4DD88A66}|RentApp.Tests\\RentApp.Tests.csproj|solutionrelative:rentapp.tests\\usercontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.server\\models\\dto\\rental\\rentalrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|solutionrelative:rentapp.server\\models\\dto\\rental\\rentalrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09AD0F5-0EB0-4F92-AD8E-849B4DD88A66}|RentApp.Tests\\RentApp.Tests.csproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.tests\\producscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09AD0F5-0EB0-4F92-AD8E-849B4DD88A66}|RentApp.Tests\\RentApp.Tests.csproj|solutionrelative:rentapp.tests\\producscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.server\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|solutionrelative:rentapp.server\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.server\\models\\dto\\product\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|solutionrelative:rentapp.server\\models\\dto\\product\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.server\\models\\dto\\product\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|solutionrelative:rentapp.server\\models\\dto\\product\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09AD0F5-0EB0-4F92-AD8E-849B4DD88A66}|RentApp.Tests\\RentApp.Tests.csproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.tests\\reviewcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09AD0F5-0EB0-4F92-AD8E-849B4DD88A66}|RentApp.Tests\\RentApp.Tests.csproj|solutionrelative:rentapp.tests\\reviewcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.server\\models\\dto\\product\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|solutionrelative:rentapp.server\\models\\dto\\product\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.server\\service\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|solutionrelative:rentapp.server\\service\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.server\\models\\dto\\product\\productdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|solutionrelative:rentapp.server\\models\\dto\\product\\productdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.server\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|solutionrelative:rentapp.server\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.server\\models\\dto\\product\\productcreatewithfiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|solutionrelative:rentapp.server\\models\\dto\\product\\productcreatewithfiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.server\\models\\dto\\rental\\rentallistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|solutionrelative:rentapp.server\\models\\dto\\rental\\rentallistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.server\\models\\dto\\rental\\productrentaldetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|solutionrelative:rentapp.server\\models\\dto\\rental\\productrentaldetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.server\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|solutionrelative:rentapp.server\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.server\\models\\dto\\user\\updateaccountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|solutionrelative:rentapp.server\\models\\dto\\user\\updateaccountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.server\\models\\dto\\user\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|solutionrelative:rentapp.server\\models\\dto\\user\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09AD0F5-0EB0-4F92-AD8E-849B4DD88A66}|RentApp.Tests\\RentApp.Tests.csproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.tests\\favoritescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09AD0F5-0EB0-4F92-AD8E-849B4DD88A66}|RentApp.Tests\\RentApp.Tests.csproj|solutionrelative:rentapp.tests\\favoritescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.server\\models\\dto\\favorite\\messageresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|solutionrelative:rentapp.server\\models\\dto\\favorite\\messageresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.server\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|solutionrelative:rentapp.server\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.server\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|solutionrelative:rentapp.server\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09AD0F5-0EB0-4F92-AD8E-849B4DD88A66}|RentApp.Tests\\RentApp.Tests.csproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.tests\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09AD0F5-0EB0-4F92-AD8E-849B4DD88A66}|RentApp.Tests\\RentApp.Tests.csproj|solutionrelative:rentapp.tests\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.server\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|solutionrelative:rentapp.server\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.server\\controllers\\favoritecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|solutionrelative:rentapp.server\\controllers\\favoritecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|solutionrelative:rentapp.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.server\\models\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|solutionrelative:rentapp.server\\models\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.server\\models\\dto\\auth\\erorrresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|solutionrelative:rentapp.server\\models\\dto\\auth\\erorrresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.server\\service\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|solutionrelative:rentapp.server\\service\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09AD0F5-0EB0-4F92-AD8E-849B4DD88A66}|RentApp.Tests\\RentApp.Tests.csproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09AD0F5-0EB0-4F92-AD8E-849B4DD88A66}|RentApp.Tests\\RentApp.Tests.csproj|solutionrelative:rentapp.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.server\\models\\dto\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|solutionrelative:rentapp.server\\models\\dto\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.server\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|solutionrelative:rentapp.server\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.server\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|solutionrelative:rentapp.server\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.server\\service\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|solutionrelative:rentapp.server\\service\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.server\\service\\favoriteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|solutionrelative:rentapp.server\\service\\favoriteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|solutionrelative:rentapp.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD00620-2BDD-0F6E-1D02-2A5A5859C372}|rentapp.client\\RentApp.client.esproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.client\\src\\app\\services\\rental.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{DCD00620-2BDD-0F6E-1D02-2A5A5859C372}|rentapp.client\\RentApp.client.esproj|solutionrelative:rentapp.client\\src\\app\\services\\rental.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD00620-2BDD-0F6E-1D02-2A5A5859C372}|rentapp.client\\RentApp.client.esproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.client\\src\\app\\services\\user.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{DCD00620-2BDD-0F6E-1D02-2A5A5859C372}|rentapp.client\\RentApp.client.esproj|solutionrelative:rentapp.client\\src\\app\\services\\user.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD00620-2BDD-0F6E-1D02-2A5A5859C372}|rentapp.client\\RentApp.client.esproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.client\\src\\app\\products\\my-products\\my-products.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DCD00620-2BDD-0F6E-1D02-2A5A5859C372}|rentapp.client\\RentApp.client.esproj|solutionrelative:rentapp.client\\src\\app\\products\\my-products\\my-products.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD00620-2BDD-0F6E-1D02-2A5A5859C372}|rentapp.client\\RentApp.client.esproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.client\\src\\app\\models\\usermodel.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{DCD00620-2BDD-0F6E-1D02-2A5A5859C372}|rentapp.client\\RentApp.client.esproj|solutionrelative:rentapp.client\\src\\app\\models\\usermodel.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD00620-2BDD-0F6E-1D02-2A5A5859C372}|rentapp.client\\RentApp.client.esproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.client\\src\\app\\models\\rentalmodel.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{DCD00620-2BDD-0F6E-1D02-2A5A5859C372}|rentapp.client\\RentApp.client.esproj|solutionrelative:rentapp.client\\src\\app\\models\\rentalmodel.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD00620-2BDD-0F6E-1D02-2A5A5859C372}|rentapp.client\\RentApp.client.esproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.client\\src\\app\\products\\my-products\\my-products.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCD00620-2BDD-0F6E-1D02-2A5A5859C372}|rentapp.client\\RentApp.client.esproj|solutionrelative:rentapp.client\\src\\app\\products\\my-products\\my-products.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD00620-2BDD-0F6E-1D02-2A5A5859C372}|rentapp.client\\RentApp.client.esproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.client\\src\\app\\products\\my-products\\my-products.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{DCD00620-2BDD-0F6E-1D02-2A5A5859C372}|rentapp.client\\RentApp.client.esproj|solutionrelative:rentapp.client\\src\\app\\products\\my-products\\my-products.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.server\\models\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|solutionrelative:rentapp.server\\models\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E21B034-6E03-4C0F-8211-0683286F5422}|RentApp.Server\\RentApp.Server.csproj|solutionrelative:rentapp.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD00620-2BDD-0F6E-1D02-2A5A5859C372}|rentapp.client\\RentApp.client.esproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.client\\src\\app\\models\\loginresponsemodel.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{DCD00620-2BDD-0F6E-1D02-2A5A5859C372}|rentapp.client\\RentApp.client.esproj|solutionrelative:rentapp.client\\src\\app\\models\\loginresponsemodel.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD00620-2BDD-0F6E-1D02-2A5A5859C372}|rentapp.client\\RentApp.client.esproj|d:\\download\\incercariproiectii-main (1)\\incercariproiectii-main\\rentapp\\rentapp.client\\src\\app\\models\\productmodel.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{DCD00620-2BDD-0F6E-1D02-2A5A5859C372}|rentapp.client\\RentApp.client.esproj|solutionrelative:rentapp.client\\src\\app\\models\\productmodel.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessageResponse.cs",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Models\\DTO\\Rental\\MessageResponse.cs",
+              "RelativeDocumentMoniker": "RentApp.Server\\Models\\DTO\\Rental\\MessageResponse.cs",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Models\\DTO\\Rental\\MessageResponse.cs",
+              "RelativeToolTip": "RentApp.Server\\Models\\DTO\\Rental\\MessageResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T20:27:41.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ChangePasswordDTO.cs",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Models\\DTO\\User\\ChangePasswordDTO.cs",
+              "RelativeDocumentMoniker": "RentApp.Server\\Models\\DTO\\User\\ChangePasswordDTO.cs",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Models\\DTO\\User\\ChangePasswordDTO.cs",
+              "RelativeToolTip": "RentApp.Server\\Models\\DTO\\User\\ChangePasswordDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T19:16:37.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UpdateAccountDTO.cs",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Models\\DTO\\User\\UpdateAccountDTO.cs",
+              "RelativeDocumentMoniker": "RentApp.Server\\Models\\DTO\\User\\UpdateAccountDTO.cs",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Models\\DTO\\User\\UpdateAccountDTO.cs",
+              "RelativeToolTip": "RentApp.Server\\Models\\DTO\\User\\UpdateAccountDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T19:14:53.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MessageResponse.cs",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Models\\DTO\\User\\MessageResponse.cs",
+              "RelativeDocumentMoniker": "RentApp.Server\\Models\\DTO\\User\\MessageResponse.cs",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Models\\DTO\\User\\MessageResponse.cs",
+              "RelativeToolTip": "RentApp.Server\\Models\\DTO\\User\\MessageResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T18:37:31.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MessageResponse.cs",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Models\\DTO\\Product\\MessageResponse.cs",
+              "RelativeDocumentMoniker": "RentApp.Server\\Models\\DTO\\Product\\MessageResponse.cs",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Models\\DTO\\Product\\MessageResponse.cs",
+              "RelativeToolTip": "RentApp.Server\\Models\\DTO\\Product\\MessageResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:18:49.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Models\\DTO\\Product\\IProductService.cs",
+              "RelativeDocumentMoniker": "RentApp.Server\\Models\\DTO\\Product\\IProductService.cs",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Models\\DTO\\Product\\IProductService.cs",
+              "RelativeToolTip": "RentApp.Server\\Models\\DTO\\Product\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:05:26.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Models\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "RentApp.Server\\Models\\ProductCategory.cs",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Models\\ProductCategory.cs",
+              "RelativeToolTip": "RentApp.Server\\Models\\ProductCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:59:04.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductCreateWithFileDTO.cs",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Models\\DTO\\Product\\ProductCreateWithFileDTO.cs",
+              "RelativeDocumentMoniker": "RentApp.Server\\Models\\DTO\\Product\\ProductCreateWithFileDTO.cs",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Models\\DTO\\Product\\ProductCreateWithFileDTO.cs",
+              "RelativeToolTip": "RentApp.Server\\Models\\DTO\\Product\\ProductCreateWithFileDTO.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:58:51.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductCreateDTO.cs",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Models\\DTO\\Product\\ProductCreateDTO.cs",
+              "RelativeDocumentMoniker": "RentApp.Server\\Models\\DTO\\Product\\ProductCreateDTO.cs",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Models\\DTO\\Product\\ProductCreateDTO.cs",
+              "RelativeToolTip": "RentApp.Server\\Models\\DTO\\Product\\ProductCreateDTO.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:58:50.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Models\\DTO\\Product\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "RentApp.Server\\Models\\DTO\\Product\\ProductDTO.cs",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Models\\DTO\\Product\\ProductDTO.cs",
+              "RelativeToolTip": "RentApp.Server\\Models\\DTO\\Product\\ProductDTO.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:58:48.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductDetailsDTO.cs",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Models\\DTO\\Product\\ProductDetailsDTO.cs",
+              "RelativeDocumentMoniker": "RentApp.Server\\Models\\DTO\\Product\\ProductDetailsDTO.cs",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Models\\DTO\\Product\\ProductDetailsDTO.cs",
+              "RelativeToolTip": "RentApp.Server\\Models\\DTO\\Product\\ProductDetailsDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:58:43.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "RentApp.Server\\Models\\Product.cs",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Models\\Product.cs",
+              "RelativeToolTip": "RentApp.Server\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:58:31.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MessageResponse.cs",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Models\\DTO\\Favorite\\MessageResponse.cs",
+              "RelativeDocumentMoniker": "RentApp.Server\\Models\\DTO\\Favorite\\MessageResponse.cs",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Models\\DTO\\Favorite\\MessageResponse.cs",
+              "RelativeToolTip": "RentApp.Server\\Models\\DTO\\Favorite\\MessageResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:19:02.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Favorite.cs",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Models\\Favorite.cs",
+              "RelativeDocumentMoniker": "RentApp.Server\\Models\\Favorite.cs",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Models\\Favorite.cs",
+              "RelativeToolTip": "RentApp.Server\\Models\\Favorite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:14:32.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ErorrResponse.cs",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Models\\DTO\\Auth\\ErorrResponse.cs",
+              "RelativeDocumentMoniker": "RentApp.Server\\Models\\DTO\\Auth\\ErorrResponse.cs",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Models\\DTO\\Auth\\ErorrResponse.cs",
+              "RelativeToolTip": "RentApp.Server\\Models\\DTO\\Auth\\ErorrResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:03:15.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Service\\IAuthService.cs",
+              "RelativeDocumentMoniker": "RentApp.Server\\Service\\IAuthService.cs",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Service\\IAuthService.cs",
+              "RelativeToolTip": "RentApp.Server\\Service\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:56:30.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReviewControllerTest.cs",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Tests\\ReviewControllerTest.cs",
+              "RelativeDocumentMoniker": "RentApp.Tests\\ReviewControllerTest.cs",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Tests\\ReviewControllerTest.cs",
+              "RelativeToolTip": "RentApp.Tests\\ReviewControllerTest.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:15:50.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RentalControllerTest.cs",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Tests\\RentalControllerTest.cs",
+              "RelativeDocumentMoniker": "RentApp.Tests\\RentalControllerTest.cs",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Tests\\RentalControllerTest.cs",
+              "RelativeToolTip": "RentApp.Tests\\RentalControllerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:14:24.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserControllerTest.cs",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Tests\\UserControllerTest.cs",
+              "RelativeDocumentMoniker": "RentApp.Tests\\UserControllerTest.cs",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Tests\\UserControllerTest.cs",
+              "RelativeToolTip": "RentApp.Tests\\UserControllerTest.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAQwKsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:12:20.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProducsControllerTest.cs",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Tests\\ProducsControllerTest.cs",
+              "RelativeDocumentMoniker": "RentApp.Tests\\ProducsControllerTest.cs",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Tests\\ProducsControllerTest.cs",
+              "RelativeToolTip": "RentApp.Tests\\ProducsControllerTest.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwDsAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:11:44.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FavoritesController.cs",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Tests\\FavoritesController.cs",
+              "RelativeDocumentMoniker": "RentApp.Tests\\FavoritesController.cs",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Tests\\FavoritesController.cs",
+              "RelativeToolTip": "RentApp.Tests\\FavoritesController.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAswCEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:10:58.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Models\\DTO\\Auth\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "RentApp.Server\\Models\\DTO\\Auth\\RegisterDTO.cs",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Models\\DTO\\Auth\\RegisterDTO.cs",
+              "RelativeToolTip": "RentApp.Server\\Models\\DTO\\Auth\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T15:40:33.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Tests\\AuthController.cs",
+              "RelativeDocumentMoniker": "RentApp.Tests\\AuthController.cs",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Tests\\AuthController.cs",
+              "RelativeToolTip": "RentApp.Tests\\AuthController.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAswL8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T14:55:53.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Controllers\\ReviewController.cs",
+              "RelativeDocumentMoniker": "RentApp.Server\\Controllers\\ReviewController.cs",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Controllers\\ReviewController.cs",
+              "RelativeToolTip": "RentApp.Server\\Controllers\\ReviewController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAowDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T14:47:13.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "RentApp.Server\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "RentApp.Server\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwD8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T14:46:59.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FavoriteController.cs",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Controllers\\FavoriteController.cs",
+              "RelativeDocumentMoniker": "RentApp.Server\\Controllers\\FavoriteController.cs",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Controllers\\FavoriteController.cs",
+              "RelativeToolTip": "RentApp.Server\\Controllers\\FavoriteController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T14:46:50.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "RentApp.Server\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "RentApp.Server\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T14:44:48.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Country.cs",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "RentApp.Server\\Models\\Country.cs",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Models\\Country.cs",
+              "RelativeToolTip": "RentApp.Server\\Models\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T14:44:41.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ReviewService.cs",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Service\\ReviewService.cs",
+              "RelativeDocumentMoniker": "RentApp.Server\\Service\\ReviewService.cs",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Service\\ReviewService.cs",
+              "RelativeToolTip": "RentApp.Server\\Service\\ReviewService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAowEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T14:44:19.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "RentApp.Server\\Service\\ProductService.cs",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Service\\ProductService.cs",
+              "RelativeToolTip": "RentApp.Server\\Service\\ProductService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T14:42:03.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FavoriteService.cs",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Service\\FavoriteService.cs",
+              "RelativeDocumentMoniker": "RentApp.Server\\Service\\FavoriteService.cs",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Service\\FavoriteService.cs",
+              "RelativeToolTip": "RentApp.Server\\Service\\FavoriteService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAADwv0IAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T14:41:56.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "RentApp.Server\\Service\\AuthService.cs",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Service\\AuthService.cs",
+              "RelativeToolTip": "RentApp.Server\\Service\\AuthService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T14:41:18.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "RentApp.Tests\\UnitTest1.cs",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "RentApp.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T14:31:33.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "RentApp.Server\\appsettings.json",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\appsettings.json",
+              "RelativeToolTip": "RentApp.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-21T13:52:51.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "rental.service.ts",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\rentapp.client\\src\\app\\services\\rental.service.ts",
+              "RelativeDocumentMoniker": "rentapp.client\\src\\app\\services\\rental.service.ts",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\rentapp.client\\src\\app\\services\\rental.service.ts",
+              "RelativeToolTip": "rentapp.client\\src\\app\\services\\rental.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-21T13:30:03.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RentalService.cs",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Service\\RentalService.cs",
+              "RelativeDocumentMoniker": "RentApp.Server\\Service\\RentalService.cs",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Service\\RentalService.cs",
+              "RelativeToolTip": "RentApp.Server\\Service\\RentalService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:29:52.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RentalsController.cs",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Controllers\\RentalsController.cs",
+              "RelativeDocumentMoniker": "RentApp.Server\\Controllers\\RentalsController.cs",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Controllers\\RentalsController.cs",
+              "RelativeToolTip": "RentApp.Server\\Controllers\\RentalsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:17:51.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UserModel.ts",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\rentapp.client\\src\\app\\models\\UserModel.ts",
+              "RelativeDocumentMoniker": "rentapp.client\\src\\app\\models\\UserModel.ts",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\rentapp.client\\src\\app\\models\\UserModel.ts",
+              "RelativeToolTip": "rentapp.client\\src\\app\\models\\UserModel.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-21T13:03:04.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "RentApp.Server\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Controllers\\UserController.cs",
+              "RelativeToolTip": "RentApp.Server\\Controllers\\UserController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwKsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T12:55:45.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "user.service.ts",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\rentapp.client\\src\\app\\services\\user.service.ts",
+              "RelativeDocumentMoniker": "rentapp.client\\src\\app\\services\\user.service.ts",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\rentapp.client\\src\\app\\services\\user.service.ts",
+              "RelativeToolTip": "rentapp.client\\src\\app\\services\\user.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-21T12:54:55.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "my-products.component.css",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\rentapp.client\\src\\app\\products\\my-products\\my-products.component.css",
+              "RelativeDocumentMoniker": "rentapp.client\\src\\app\\products\\my-products\\my-products.component.css",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\rentapp.client\\src\\app\\products\\my-products\\my-products.component.css",
+              "RelativeToolTip": "rentapp.client\\src\\app\\products\\my-products\\my-products.component.css",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAgwKcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-21T12:49:02.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "my-products.component.ts",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\rentapp.client\\src\\app\\products\\my-products\\my-products.component.ts",
+              "RelativeDocumentMoniker": "rentapp.client\\src\\app\\products\\my-products\\my-products.component.ts",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\rentapp.client\\src\\app\\products\\my-products\\my-products.component.ts",
+              "RelativeToolTip": "rentapp.client\\src\\app\\products\\my-products\\my-products.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-21T12:48:50.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "my-products.component.html",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\rentapp.client\\src\\app\\products\\my-products\\my-products.component.html",
+              "RelativeDocumentMoniker": "rentapp.client\\src\\app\\products\\my-products\\my-products.component.html",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\rentapp.client\\src\\app\\products\\my-products\\my-products.component.html",
+              "RelativeToolTip": "rentapp.client\\src\\app\\products\\my-products\\my-products.component.html",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-21T12:49:24.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "RentalModel.ts",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\rentapp.client\\src\\app\\models\\RentalModel.ts",
+              "RelativeDocumentMoniker": "rentapp.client\\src\\app\\models\\RentalModel.ts",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\rentapp.client\\src\\app\\models\\RentalModel.ts",
+              "RelativeToolTip": "rentapp.client\\src\\app\\models\\RentalModel.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-21T12:50:02.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Rental.cs",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Models\\Rental.cs",
+              "RelativeDocumentMoniker": "RentApp.Server\\Models\\Rental.cs",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Models\\Rental.cs",
+              "RelativeToolTip": "RentApp.Server\\Models\\Rental.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA3wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T12:56:51.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductRentalDetailsDTO.cs",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Models\\DTO\\Rental\\ProductRentalDetailsDTO.cs",
+              "RelativeDocumentMoniker": "RentApp.Server\\Models\\DTO\\Rental\\ProductRentalDetailsDTO.cs",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Models\\DTO\\Rental\\ProductRentalDetailsDTO.cs",
+              "RelativeToolTip": "RentApp.Server\\Models\\DTO\\Rental\\ProductRentalDetailsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T12:56:33.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RentalListDTO.cs",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Models\\DTO\\Rental\\RentalListDTO.cs",
+              "RelativeDocumentMoniker": "RentApp.Server\\Models\\DTO\\Rental\\RentalListDTO.cs",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Models\\DTO\\Rental\\RentalListDTO.cs",
+              "RelativeToolTip": "RentApp.Server\\Models\\DTO\\Rental\\RentalListDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T12:56:15.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RentalRequestDTO.cs",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Models\\DTO\\Rental\\RentalRequestDTO.cs",
+              "RelativeDocumentMoniker": "RentApp.Server\\Models\\DTO\\Rental\\RentalRequestDTO.cs",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Models\\DTO\\Rental\\RentalRequestDTO.cs",
+              "RelativeToolTip": "RentApp.Server\\Models\\DTO\\Rental\\RentalRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T12:56:16.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Models\\User.cs",
+              "RelativeDocumentMoniker": "RentApp.Server\\Models\\User.cs",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\RentApp.Server\\Models\\User.cs",
+              "RelativeToolTip": "RentApp.Server\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T12:56:01.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "LoginResponseModel.ts",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\rentapp.client\\src\\app\\models\\LoginResponseModel.ts",
+              "RelativeDocumentMoniker": "rentapp.client\\src\\app\\models\\LoginResponseModel.ts",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\rentapp.client\\src\\app\\models\\LoginResponseModel.ts",
+              "RelativeToolTip": "rentapp.client\\src\\app\\models\\LoginResponseModel.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-21T12:50:36.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ProductModel.ts",
+              "DocumentMoniker": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\rentapp.client\\src\\app\\models\\ProductModel.ts",
+              "RelativeDocumentMoniker": "rentapp.client\\src\\app\\models\\ProductModel.ts",
+              "ToolTip": "D:\\Download\\IncercariProiectII-main (1)\\IncercariProiectII-main\\RentApp\\rentapp.client\\src\\app\\models\\ProductModel.ts",
+              "RelativeToolTip": "rentapp.client\\src\\app\\models\\ProductModel.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-21T12:50:23.899Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

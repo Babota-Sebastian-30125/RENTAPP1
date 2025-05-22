@@ -1,0 +1,15 @@
+<div class="review-box">
+  <div class="review-header">
+    <label class="review-label">Lasă o recenzie:</label>
+  </div>
+  <div class="review-stars">
+    <span *ngFor="let star of stars" (click)="selectStar(star)" class="star" [class.selected]="star <= selectedRating">★</span>
+  </div>
+  <textarea [formControl]="commentControl" placeholder="Scrie un comentariu..." class="review-textarea" rows="3"></textarea>
+  <div class="review-actions">
+    <button class="btn submit" (click)="submitReview()" [disabled]="!selectedRating || !commentControl.value">Trimite</button>
+    <button class="btn cancel" (click)="cancel()">Anulează</button>
+  </div>
+  <p *ngIf="externalMessage" class="confirmation">{{ externalMessage }}</p>
+  <p *ngIf="errorMessage" class="error">{{ errorMessage }}</p>
+</div>

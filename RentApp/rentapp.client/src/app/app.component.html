@@ -1,0 +1,22 @@
+<nav style="display: flex; justify-content: space-between; padding: 10px; background: #eee;">
+  <div style="display: flex; gap: 10px;">
+    <a routerLink="/products">Produse</a>
+    <a routerLink="/create" *ngIf="authService.isLoggedIn()">Adaugă produs</a>
+    <a routerLink="/favorites" *ngIf="authService.isLoggedIn()">Produse favorite</a>
+  </div>
+
+  <div *ngIf="userName; else guestLinks" style="display: flex; gap: 10px; align-items: center;">
+    <span>Bine ai venit, {{ userName }}!</span>
+    <a routerLink="/account">Contul meu</a>
+    <button (click)="logout()">Deconectare</button>
+  </div>
+
+  <ng-template #guestLinks>
+    <div style="display: flex; gap: 10px;">
+      <a routerLink="/login">Conectare</a>
+      <a routerLink="/register">Înregistrare</a>
+    </div>
+  </ng-template>
+</nav>
+
+<router-outlet></router-outlet>

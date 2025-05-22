@@ -1,0 +1,13 @@
+D:\RentApp\rentapp.client\obj\Debug\rentapp.client.esproj.CoreCompileInputs.cache
+D:\Facultate\II\RentApp(Adelina)\RentApp\rentapp.client\obj\Debug\rentapp.client.esproj.CoreCompileInputs.cache
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\RentApp\rentapp.client\obj\Debug\rentapp.client.esproj.CoreCompileInputs.cache
+D:\AN3\RentAppV2\rentapp.client\obj\Debug\rentapp.client.esproj.CoreCompileInputs.cache
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentAppV2\rentapp.client\obj\Debug\rentapp.client.esproj.CoreCompileInputs.cache
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\RentAppV2\rentapp.client\obj\Debug\rentapp.client.esproj.CoreCompileInputs.cache
+D:\Facultate\II\Rent_it-master\RentAppV2\rentapp.client\obj\Debug\rentapp.client.esproj.CoreCompileInputs.cache
+D:\RentAppV4\RentAppV2\rentapp.client\obj\Debug\rentapp.client.esproj.CoreCompileInputs.cache
+D:\Rent_it\RentAppV2\rentapp.client\obj\Debug\rentapp.client.esproj.CoreCompileInputs.cache
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\Rent_it\RentApp\rentapp.client\obj\Debug\rentapp.client.esproj.CoreCompileInputs.cache
+C:\Facultate\An 3\Sem 2\II\Proiect\sourceCode\IncercariProiectII\RentApp\rentapp.client\obj\Debug\rentapp.client.esproj.CoreCompileInputs.cache
+C:\Facultate\An 3\Sem 2\II\Proiect\PersonalWorkTest\RentApp\rentapp.client\obj\Debug\rentapp.client.esproj.CoreCompileInputs.cache
+D:\Download\IncercariProiectII-main (1)\IncercariProiectII-main\RentApp\rentapp.client\obj\Debug\RentApp.client.esproj.CoreCompileInputs.cache
